@@ -1,0 +1,11 @@
+# Folders and file extensions
+__pycache__
+drivers/
+hidden/
+
+# Generated Files
+temp*
+cookie[0-9].txt
+
+# VPN
+vpn*
