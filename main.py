@@ -17,8 +17,8 @@ with suppress(Exception): # Load prefrences file
     option.add_experimental_option("prefs", pref)
 # /\/\ Webdriver & browser stuff /\/\
 # \/\/\/ Constants \/\/\/
-siteSet = "https://www.grammarly.com/"
-loggedIn = "https://app.grammarly.com/" # Logged in page, you can tell from the "app" subdomain.
+siteSet = "https://my.harmonytx.org/idp/AuthnEngine#/authn/"
+loggedIn = "https://my.harmonytx.org/ui/applications/" # Logged in page, you can tell from the "app" subdomain.
 tCount = 0
 ranAlready = False
 foundWorking = False
